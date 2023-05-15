@@ -1,2 +1,4 @@
-# dialogos-sobre-fisica-atomica
-Edición digital del libro 'Diálogos de física atómica' de Werner Heisenberg realizada con Pandoc
+# Diálogos sobre física atómica
+
+Edición digital (pdf) del libro de **Werner Heisenberg**
+realizada con *Pandoc* utilizando la plantilla *eisvogel.latex*
